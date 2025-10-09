@@ -174,7 +174,7 @@ export class ClashConfigBuilder extends BaseConfigBuilder {
             name: t('outboundNames.Auto Select'),
             type: 'url-test',
             proxies: DeepCopy(proxyList),
-            url: 'https://www.gstatic.com/generate_204',
+            url: 'http://www.apple.com/library/test/success.html',
             interval: 300,
             lazy: false
         });
